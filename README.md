@@ -49,6 +49,4 @@ Celem zadania było uruchomienie kontenera z serwerem Nginx oraz analiza jego dz
 - polecenie `docker inspect` pozwala analizować konfigurację kontenerów
 - polecenie `docker logs` umożliwia debugowanie działania aplikacji
 
----
-
 ## Struktura projektu
