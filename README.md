@@ -1,8 +1,8 @@
-# Lesson 21 – Architektura Dockera i mikroserwisów
+# Lesson 21 - Architektura Dockera i mikroserwisów
 
 Repozytorium zawiera rozwiązania zadań z lekcji dotyczącej Dockera.
 
-## Zadanie 1 – Aplikacja wielokontenerowa
+## Zadanie 1 - Aplikacja wielokontenerowa
 
 Utworzono aplikację składającą się z dwóch kontenerów:
 
@@ -13,7 +13,7 @@ Aplikacja zapisuje i odczytuje dane z bazy danych.
 Kontenery komunikują się ze sobą przez Docker network.  
 Dane bazy są przechowywane w Docker volume.
 
-## Zadanie 2 – Analiza kontenera Nginx
+## Zadanie 2 - Analiza kontenera Nginx
 
 W zadaniu uruchomiono kontener Nginx i przeprowadzono jego analizę.
 
